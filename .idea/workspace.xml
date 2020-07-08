@@ -25,7 +25,25 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef32681e-f8c4-46b1-bf0a-1ff190e35bfc" name="默认的" comment="add：马车（未完）" />
+    <list default="true" id="ef32681e-f8c4-46b1-bf0a-1ff190e35bfc" name="默认的" comment="add：马车（未完）">
+      <change afterPath="$PROJECT_DIR$/.idea/SimpolMod.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/SimpolMod.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/SimpolMod.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/konpi/simplemod/Blocks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/konpi/simplemod/Items.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/konpi/simplemod/Render.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/konpi/simplemod/SimpleMod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/mods.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/pack.mcmeta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,6 +89,7 @@
   <component name="ProjectId" id="1eHPonYCUaCeYXSBOLAVe8YZo4Z" />
   <component name="ProjectLevelVcsManager">
     <OptionsSetting value="false" id="更新" />
+    <ConfirmationsSetting value="2" id="新增" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -78,15 +97,17 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SereneSeasons/build.gradle" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/build.gradle" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -160,6 +181,8 @@
       <workItem from="1594147967189" duration="683000" />
       <workItem from="1594188013396" duration="690000" />
       <workItem from="1594208314196" duration="18015000" />
+      <workItem from="1594236580209" duration="588000" />
+      <workItem from="1594237330367" duration="1231000" />
     </task>
     <task id="LOCAL-00001" summary="add:添加了一点点东西一把小刀">
       <created>1593982441179</created>
@@ -269,6 +292,7 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="add:添加了一点点东西一把小刀" />
     <MESSAGE value="add:bowl" />
     <MESSAGE value="add:bowl/riceSeed" />
@@ -291,6 +315,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="488" y="77" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1594232736731" />
+    <state x="504" y="63" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1594237204531">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="504" y="63" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1366.738@0.0.1366.738" timestamp="1594237204531" />
     <state x="202" y="296" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1594188247080">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -303,26 +331,26 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="463" y="126" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1594223724072" />
-    <state width="1323" height="167" key="GridCell.Tab.0.bottom" timestamp="1594235664566">
+    <state width="1323" height="167" key="GridCell.Tab.0.bottom" timestamp="1594237221774">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state width="1323" height="180" key="GridCell.Tab.0.bottom/0.0.1366.734@0.0.1366.734" timestamp="1594042157308" />
-    <state width="1323" height="167" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1594235664566" />
-    <state width="1323" height="167" key="GridCell.Tab.0.center" timestamp="1594235664565">
+    <state width="1323" height="167" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1594237221774" />
+    <state width="1323" height="167" key="GridCell.Tab.0.center" timestamp="1594237221774">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state width="1323" height="180" key="GridCell.Tab.0.center/0.0.1366.734@0.0.1366.734" timestamp="1594042157308" />
-    <state width="1323" height="167" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1594235664565" />
-    <state width="1323" height="167" key="GridCell.Tab.0.left" timestamp="1594235664564">
+    <state width="1323" height="167" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1594237221774" />
+    <state width="1323" height="167" key="GridCell.Tab.0.left" timestamp="1594237221774">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state width="1323" height="180" key="GridCell.Tab.0.left/0.0.1366.734@0.0.1366.734" timestamp="1594042157307" />
-    <state width="1323" height="167" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1594235664564" />
-    <state width="1323" height="167" key="GridCell.Tab.0.right" timestamp="1594235664565">
+    <state width="1323" height="167" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1594237221774" />
+    <state width="1323" height="167" key="GridCell.Tab.0.right" timestamp="1594237221774">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state width="1323" height="180" key="GridCell.Tab.0.right/0.0.1366.734@0.0.1366.734" timestamp="1594042157308" />
-    <state width="1323" height="167" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1594235664565" />
+    <state width="1323" height="167" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1594237221774" />
     <state x="129" y="55" key="MergeDialog" timestamp="1593978796656">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
